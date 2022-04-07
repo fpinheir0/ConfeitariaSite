@@ -1,0 +1,16 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #cf3476;
+}
+
+.inicio {
+    background-color: #ee82ee;
+}
+
+.margin {
+
+    padding-bottom: 50px;
+}
