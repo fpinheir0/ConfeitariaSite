@@ -1,2 +1,2 @@
 # LuConfeitaria
-Site demonstrativo de uma confeitaria
+site de uma confeitaria, inicio do projeto 
